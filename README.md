@@ -28,3 +28,5 @@ Questo progetto di **Laboratorio di Big Data, Data Mining e Data Analytics** ana
 **Giovanni Morelli**
 Corso di *Laboratorio di Big Data, Data Mining e Data Analytics*
 CdL Tecnologie dei Sistemi Informatici | AA 2025-2026
+
+Fonte dati: [trainstats.com](https://trainstats.altervista.org/)
