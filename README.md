@@ -2,7 +2,7 @@
 
 ## Descrizione del Progetto
 
-Questo progetto di **Big Data Analytics** analizza le performance della rete ferroviaria italiana nel mese di **Novembre 2025**, utilizzando dati reali granulari estratti dalla piattaforma TrainStats.
+Questo progetto di **Laboratorio di Big Data, Data Mining e Data Analytics** analizza le performance della rete ferroviaria italiana nel mese di **Novembre 2025**, utilizzando dati reali granulari estratti dalla piattaforma TrainStats.
 
 ## Come Eseguire il Progetto
 
