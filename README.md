@@ -31,10 +31,12 @@ Il dataset copre il traffico nazionale dal 01/11/2025 al 30/11/2025.
 * **Visualizzazione:** Matplotlib, Seaborn
 * **Machine Learning:** Scikit-Learn
 
-## Autore
+## Autori
 
-**Giovanni Morelli**
-Corso di *Laboratorio di Big Data, Data Mining e Data Analytics*
-CdL Tecnologie dei Sistemi Informatici | AA 2025-2026
+* **Giovanni Morelli** 
+
+---
+*Corso di Laboratorio di Big Data, Data Mining e Data Analytics | CdL Tecnologie dei Sistemi Informatici | Università di Bologna | A.A. 2025-2026*
+
 
 Fonte dati: [trainstats.com](https://trainstats.altervista.org/)
